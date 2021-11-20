@@ -94,7 +94,11 @@ footer {
   }
 
   .set{
-    margin: 5px auto;
+    margin: 30px auto;
+  }
+
+  footer{
+    margin-top: 40px;
   }
 
 
