@@ -82,7 +82,19 @@ footer {
 
 @media (max-width:800px){
   h1{
-      font-size:3rem;
+      font-size:2rem;
+  }
+  .drum{
+    border: 5px solid #404B69;
+    border-radius: 7px;
+    margin: 2px auto;
+    width: 70%;
+    height: 60px;
+    font-size: 2rem;
+  }
+
+  .set{
+    margin: 5px auto;
   }
 
 }
