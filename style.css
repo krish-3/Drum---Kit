@@ -80,7 +80,7 @@ footer {
   background-color: white;
 }
 
-@media (min-width:800px){
+@media (max-width:800px){
   h1{
       font-size:3rem;
   }
